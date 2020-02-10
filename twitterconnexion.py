@@ -38,16 +38,16 @@ class ListnerTwitter(StreamListener,Thread):
     
     auto_tweet_bool=False
         # Consumer Key (API Key)
-    cons_key ='sNoesxEuSPcSMhbM9hZFskW9V'
+    cons_key ='xxxxxxxxxxxxxxxxxxxxxxxx'
 
         # Consumer Secret (API Secret)
-    cons_secret = 'vmJC2yfLUDm9zbFTNLSMiKvaDvSpFfWUAZaUDy8JyUpXvev2WS'
+    cons_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
         # Access Token
-    access_token = '3222066959-P9xIATWww4pgey8JZMGa89hlbQcJA1m3XVi2Xmk'
+    access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
         # Access Token Secret
-    access_token_secret = 'h76bMmvIaYGRCqVZDDgamm2y1q88hdCGZmTl8TOAHKqvi'
+    access_token_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     auth=None
     api=None
    
